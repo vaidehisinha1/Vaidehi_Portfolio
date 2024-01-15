@@ -1,0 +1,6 @@
+export const aboutData = {
+    title: "Who I am ?",
+    description1: "My name is Vaidehi Sinha. I am a final year Computer Science and Engineering Student in Bachelors of Technology at MIT World Peace University (India).",
+    description2: "I am deeply committed to making a positive impact in the world, driven by a relentless curiosity and fervor that fuel my meticulous approach to every task. My goal is to seamlessly integrate my leadership skills and creative flair with a robust technical background, fostering innovation at every opportunity. As a passionate researcher, my focus is keenly set on the dynamic fields of artificial intelligence, machine learning, and deep learning. I am eager to delve into complex challenges, applying my skills to develop solutions that are not only effective but also ethically sound and socially responsible. In doing so, I aspire to be at the forefront of technological advancement, contributing to a future where technology enhances human potential and addresses global challenges.",
+    image: 2
+}
