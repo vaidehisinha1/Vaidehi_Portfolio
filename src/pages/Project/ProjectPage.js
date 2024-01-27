@@ -45,7 +45,7 @@ function ProjectPage() {
         home: {
             color: theme.secondary,
             position: 'absolute',
-            top: 25,
+            top: 75,
             left: 25,
             padding: '7px',
             borderRadius: '50%',
