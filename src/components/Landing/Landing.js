@@ -89,13 +89,25 @@ function Landing() {
                                     style={{ color: theme.secondary }}
                                     aria-label='LinkedIn'
                                 />
+                                
+                            </a>
+                        )}
+                        {socialsData.instagram && (
+                            <a
+                                href={socialsData.instagram}
+                                target='_blank'
+                                rel='noreferrer'
+                            >
                                 <FaInstagram
                                     className='landing--social'
                                     style={{ color: theme.secondary }}
                                     aria-label='Instagram'
                                 />
+                                
                             </a>
                         )}
+                        
+
                         {socialsData.github && (
                             <a
                                 href={socialsData.github}
