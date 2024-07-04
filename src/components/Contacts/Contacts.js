@@ -291,14 +291,6 @@ function Contacts() {
                                 {contactsData.phone}
                             </p>
                         </a>
-                        <div className='personal-details'>
-                            // <div className={classes.detailsIcon}>
-                            //     <HiOutlineLocationMarker />
-                            // </div>
-                            // <p style={{ color: theme.tertiary }}>
-                            //     {contactsData.address}
-                            // </p>
-                        </div>
 
                         {/* <div className='socialmedia-icons'>
                             {socialsData.twitter && (
